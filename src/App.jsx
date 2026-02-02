@@ -318,7 +318,7 @@ export default function App() {
             {[
               {
                 year: "2024-25",
-                role: "Sr. Strategist",
+                role: "Social Media Strategist",
                 company: "Insurance with Perpetual",
                 color: "bg-rose-50",
               },
